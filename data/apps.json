@@ -400,6 +400,7 @@
                 { "id": "nostr", "name": "Nostr" },
                 { "id": "lemmy", "name": "Lemmy" },
                 { "id": "peertube", "name": "PeerTube" }
+                { "id": "bluesky", "name": "Bluesky"}
             ]
         },
         {
